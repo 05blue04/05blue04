@@ -19,7 +19,7 @@ I'm Alex, a Software Engineer based in Chicago.
 
 Computer Engineering graduate from Purdue University
 
-Currently most proud of **[Stratos](https://github.com/StratosIO/Stratos)** - an AI-powered video processing platform that brings together real-time transcoding, automated transcription, and intelligent video analysis. It's been an incredible journey building something that combines cutting-edge AI with practical video editing needs.
+Currently most proud of **[Stratos](https://github.com/StratosIO/Stratos)** - an AI-powered video processing platform that brings together real-time transcoding, automated transcription, and fps enhancement.
 
 My main tech stack is typescript, svelte, and postgres although I've been enjoying golang recently
 
